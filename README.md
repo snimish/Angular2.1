@@ -6,3 +6,6 @@
 function.html, add compiled file into this HTML like(function.js). The output should
 display as string and number message.
 4. DO remember to annotate with proper datatype the parameters and function
+
+## Output
+Files Screenshot_console.png and Screenshot_output.png show the running output
